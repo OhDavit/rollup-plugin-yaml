@@ -1,4 +1,3 @@
-"use strict";
 
 import * as YAML from 'yamljs';
 import toSource from 'tosource';
